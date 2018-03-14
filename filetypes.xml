@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="TSLint" />
     </extensionMap>
   </component>
 </application>
