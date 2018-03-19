@@ -2,6 +2,8 @@
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
+    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
   </HTMLCodeStyleSettings>
   <codeStyleSettings language="HTML">
