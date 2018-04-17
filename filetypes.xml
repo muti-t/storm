@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CircularProgress.scss" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="TSLint" />
     </extensionMap>
   </component>
