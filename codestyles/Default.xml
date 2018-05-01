@@ -2,9 +2,9 @@
   <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_ATTRIBUTES" value="false" />
-    <option name="HTML_SPACE_AFTER_TAG_NAME" value="true" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+    <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
