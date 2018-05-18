@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="rcc" value="import React, {Component} from 'react';&#10;&#10;class $NAME$ extends Component{&#10;    render (){&#10;        return (&#10;            &lt;div className=&quot;$END$&quot;&gt;&lt;/div&gt;&#10;        );&#10;    }&#10;}&#10;&#10;export default $NAME$;" description="React class component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
