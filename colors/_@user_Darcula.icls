@@ -3,10 +3,16 @@
     <property name="created">2017-10-25T10:42:21</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2017-11-29T18:03:36</property>
+    <property name="modified">2018-06-26T14:36:29</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value>
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="c63a2f" />
