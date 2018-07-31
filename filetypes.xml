@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="browse-filters.scss" type="PLAIN_TEXT" />
       <mapping pattern="CircularProgress.scss" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="TSLint" />
     </extensionMap>
