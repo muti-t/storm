@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="overrides" type="CSS" />
       <mapping ext="variables" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
 </application>
