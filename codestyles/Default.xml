@@ -6,7 +6,7 @@
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
     <option name="HTML_QUOTE_STYLE" value="Single" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
@@ -23,6 +23,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="80" />
+    <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
     <option name="SPACE_BEFORE_METHOD_LBRACE" value="false" />
     <option name="SOFT_MARGINS" value="80" />
     <indentOptions>
