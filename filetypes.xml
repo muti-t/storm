@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="overrides" type="CSS" />
+      <mapping pattern="rust_play" type="PLAIN_TEXT" />
       <mapping ext="variables" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
