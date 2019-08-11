@@ -3,7 +3,7 @@
     <property name="created">2019-08-04T17:40:51</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-08-05T22:40:43</property>
+    <property name="modified">2019-08-11T14:02:28</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -31,7 +31,7 @@
     </option>
     <option name="org.rust.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc6004" />
+        <option name="FOREGROUND" value="98acc" />
       </value>
     </option>
     <option name="org.rust.OPERATORS">
